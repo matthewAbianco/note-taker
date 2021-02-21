@@ -5,7 +5,7 @@
 
 
 ---
-
+<img src="img/app.png">
 
 ## Resources used
 
