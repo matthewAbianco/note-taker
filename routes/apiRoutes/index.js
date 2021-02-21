@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const data = require('../../savedData/savedData.json');
+const data = require('../../DB/DB.json');
 const saveToDB = require('../../lib/notes');
 
 router.get('/notes', (req,res)=>
